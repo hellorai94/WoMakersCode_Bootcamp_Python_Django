@@ -29,4 +29,4 @@ else:
     menor = num3
 
 
-print(f'A ordem crescente dos números é {menor}, {medio}, {maior}')
+print(f'A ordem crescente dos números é {menor}, {medio}, {maior}.')

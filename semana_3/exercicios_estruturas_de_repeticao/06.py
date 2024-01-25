@@ -5,11 +5,11 @@ for "admin123", caso contrário imprima uma mensagem de erro. """
 login = 'admin'
 senha = 'admin123'
 
-login_user = input("Digite o login:")
-senha_user = input("Digite a senha:")
+login_user = input('Digite o login:')
+senha_user = input('Digite a senha:')
 
 if login_user == login and senha_user == senha:
-    print("Credencias corretas!")
+    print('Credencias corretas!')
 else:
-    print("Login ou senha errados!")
+    print('Login ou senha errados!')
     

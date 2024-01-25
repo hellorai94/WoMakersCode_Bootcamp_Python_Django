@@ -7,4 +7,6 @@ nota = float(input("Digite uma nota:"))
 while nota > 10 or nota < 0:
     print(f"{nota} é inválida.")
     nota = int(input("Digite uma nota:"))
+
+print(f'A nota {nota} é válida.')
     

@@ -3,7 +3,6 @@ digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom
 Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso. """
 
 turno = input("Em qual turno você estuda? M-Matutino | V-Vespertino | N-Noturno.\n").upper()
-print(turno)
 
 if turno == 'M':
     print("Bom dia!")
