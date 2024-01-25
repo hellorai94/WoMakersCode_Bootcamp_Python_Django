@@ -2,8 +2,8 @@
 Calcule o total de calorias queimadas em um mês, considerando uma
 média de 5 calorias por minuto de exercício.
  """
-horas_semana = float(input('Quantas horas de exercício físico você fez?'))
+horas_semana = float(input('Quantas horas de exercício físico você fez por semana?'))
 
 calorias = ((horas_semana * 4) * (5 * 60))
-print(f'A quantidade de calorias queimadas em um mês foi de {calorias} calorias.')
+print(f'A quantidade de calorias queimadas em um mês foi de {calorias:.2f} calorias.')
 

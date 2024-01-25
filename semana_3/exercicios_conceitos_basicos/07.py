@@ -3,8 +3,8 @@ imprima o Índice de Massa Corporal (IMC) usando a fórmula:
 IMC = peso / (altura x altura).
  """
 
-peso = float(input("Qual o seu peso?"))
-altura = float(input("Qual a sua altura?"))
+peso = float(input("Qual o seu peso (em kg)?"))
+altura = float(input("Qual a sua altura (em metros)?"))
 
 imc = peso / (altura ** 2)
 

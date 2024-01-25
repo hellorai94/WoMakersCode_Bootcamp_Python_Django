@@ -11,18 +11,18 @@ Renda.
 sal_bruto = float(input('Qual o salário bruto?'))
 
 if sal_bruto <= 1903.98:
-    print(f'O salário liquído é {sal_bruto}.')
+    print(f'O salário liquído é R$ {sal_bruto:.2f}.')
 elif sal_bruto <=  2826.65:
     sal_liq = sal_bruto * 0.925
-    print(f'O salário liquído é {sal_liq}')
+    print(f'O salário liquído é R$ {sal_liq:.2f}.')
 elif sal_bruto <=  3751.05:
     sal_liq = sal_bruto * 0.85
-    print(f'O salário liquído é {sal_liq}')    
+    print(f'O salário liquído é R$ {sal_liq:.2f}.')    
 elif sal_bruto <=  4664.68:
     sal_liq = sal_bruto * 0.775
-    print(f'O salário liquído é {sal_liq}')   
+    print(f'O salário liquído é R$ {sal_liq:.2f}.')   
 else:
     sal_liq = sal_bruto * 0.725
-    print(f'O salário liquído é {sal_liq}')   
+    print(f'O salário liquído é R$ {sal_liq:.2f}.')   
 
 
