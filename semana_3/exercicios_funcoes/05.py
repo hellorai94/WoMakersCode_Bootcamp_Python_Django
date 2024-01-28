@@ -6,6 +6,7 @@ frase e utilize a função para contar as vogais. """
 from unidecode import unidecode
 
 frase = (unidecode(input("Digite uma frase:"))).upper()
+print(frase)
 
 def contar_vogais(frase):
     vogais = 'AEIOU'
