@@ -1,4 +1,9 @@
-# Bootcamp Back-End Python e Django
+<div style="display: flex; align-items: center;">
+  <h1>Bootcamp Back-End Python e Django</h1>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="80" height="80" style="margin-left: 10px;">
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="50" height="50" style="margin-left: 10px;">
+</div>
+
 
 ## Atividades Desenvolvidas
 
