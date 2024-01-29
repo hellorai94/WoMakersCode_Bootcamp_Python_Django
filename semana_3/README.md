@@ -1,3 +1,11 @@
+# Semana 03: Conceitos básicos de Python | Tomada de Decisão e Estruturas de Repetição | Listas, tuplas e dicionários | Funções
+
+Este repositório contém o código e os recursos desenvolvidos como parte do estudo da Semana 03 do Bootcamp Back-End Python e Django.
+
+## Status Atual
+
+Resumo do progresso:
+
 # Lista 1 - Conceitos Básicos
 
 1. [x] Tarefa 1
@@ -41,3 +49,5 @@
 4. Tarefa 4
 5. [x] Tarefa 5
 6. Tarefa 6
+
+Obrigado por visitar este repositório!

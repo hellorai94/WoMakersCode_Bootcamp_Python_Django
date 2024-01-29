@@ -1,4 +1,4 @@
-# Semana 04: Orientação a Objetos com Python e Banco de Dados
+# Semana 04: Orientação a Objetos com Python | Banco de Dados
 
 Este repositório contém o código e os recursos desenvolvidos como parte do estudo da Semana 04 do Bootcamp Back-End Python e Django.
 
