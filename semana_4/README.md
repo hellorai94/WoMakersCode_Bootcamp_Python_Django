@@ -20,7 +20,12 @@ Resumo do progresso:
 - [x] Construtores e Destrutores
 - [x] Atributos de Visibilidade e Encapsulamento - Parte 1
 - [x] Atributos de Visibilidade e Encapsulamento - Parte 2
-- Herança Simples
+- [x] Herança Simples
+  - Com herença, uma classe pode herdar os métodos e atributos de outra classe.
+  - Funciona de forma transitiva.
+- [x] Herança Múltipla(Mixins)
+  - Uma classe pode herdar de múltiplas classes em Python
+- Classes abstratas e a biblioteca ABC
 
 ### Banco de Dados
 
