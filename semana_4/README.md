@@ -29,6 +29,27 @@ Resumo do progresso:
 - [x] Conexão com Banco de Dados
 - [x] Comando CREATE
 - [x] Comando ALTER
-- Comando Drop
+- [x] Comando Drop
+- [x] Comando Insert
+- [x] Comando DELETE
+- [x] Comando SELECT 
+- [x] Comando UPDATE
+- [x] Usando ORDER BY
+- [x] Utilizando LIMIT e DISTINCT 
+- [x] Utilizando GROUP BY e HAVING
+- [x] Entendendo a clausula JOIN (Right, Left, Full e Inner)
+- [x] Sub-consultas 
+  
+# Exercício de Banco de Dados
+
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+- [ ] Tarefa 4
+- [ ] Tarefa 5
+- [ ] Tarefa 6
+- [ ] Tarefa 7
+- [ ] Tarefa 8
+
 
 Obrigado por visitar este repositório!
