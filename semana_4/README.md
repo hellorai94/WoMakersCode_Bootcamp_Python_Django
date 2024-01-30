@@ -49,7 +49,7 @@ Resumo do progresso:
 - [x] Entendendo a clausula JOIN (Right, Left, Full e Inner)
 - [x] Sub-consultas 
   
-# Exercício de Banco de Dados
+### Exercício de Banco de Dados
 
 - [x] Tarefa 1
 - [x] Tarefa 2
