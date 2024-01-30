@@ -25,7 +25,11 @@ Resumo do progresso:
   - Funciona de forma transitiva.
 - [x] Herança Múltipla(Mixins)
   - Uma classe pode herdar de múltiplas classes em Python
-- Classes abstratas e a biblioteca ABC
+[x]Classes abstratas e a biblioteca ABC
+  - Um classe abastata pode ser considerada como um método para criar outras classes.
+  - Uma classe abstrata precisa ter um ou mais métodos/propriedades abastratos que devem ser implementadoss pelas classes filhas.
+  - As classes abstratas são usadas para definir a API de suas classes filhas.
+  - 
 
 ### Banco de Dados
 

@@ -35,7 +35,7 @@ Resumo do progresso:
 # Lista 3 - Estruturas de Dados
 
 1. Tarefa 1
-2. Tarefa 2
+2. [x] Tarefa 2
 3. [x] Tarefa 3
 4. [x] Tarefa 4
 5. [x] Tarefa 5
