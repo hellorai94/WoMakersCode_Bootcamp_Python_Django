@@ -36,7 +36,20 @@ Resumo do progresso:
     - OPTIONS: é usado para descrever as opões de comunicação para um recurso específico.
     - TRACE: foi projetado para fins de diagnóstico durante o desenvolvimento.
     - HEAD: recupera os cabeçalhos do recurso próprio recurso.
-- [] HTTP STATUS Code 
+- [x] HTTP STATUS Code 
+- [x] Conhecendo o HTTPS
+- [x] O que são APIs
+  - São interfaces que permitem a comunicação e a integração entre diferentes aplicações de software (sites, aplicativos e dispostivos).
+  - REST | SOAP 
+    - REST: mais leve, pode ser armazenado em cache e mais fácil de atualizar.
+    - SOAP: sobrecarga extra, mais largura de banda necessária, mais trabalho em ambas as extremidades.
+    - CRUD: CREATE -POST- | GET -READ- | PUT -UPDATE- | DELETE -DELETE-
+- [x] Explorando uma API com Postman.
+- [] Estrutura de uma REST API com JSON
+  - REST - Representational State Transfer
+    - 
+- 
+
   
 
 Obrigado por visitar este repositório!
