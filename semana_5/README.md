@@ -45,9 +45,36 @@ Resumo do progresso:
     - SOAP: sobrecarga extra, mais largura de banda necessária, mais trabalho em ambas as extremidades.
     - CRUD: CREATE -POST- | GET -READ- | PUT -UPDATE- | DELETE -DELETE-
 - [x] Explorando uma API com Postman.
-- [] Estrutura de uma REST API com JSON
-  - REST - Representational State Transfer
-    - 
+- [x] Estrutura de uma REST API com JSON
+  - REST - Representational State Transfer:
+    - Elementos: cliente;
+    - Rest request;
+    - Rest response;
+    - Comunicação através do http;
+    - Endpoint -> URI (Destino, local que é acessado para o cliente obter a solicitação na request);
+    - Headers;
+    - Body;
+    - Response;
+    - JSON é o formato mais comum de resposta de API's;
+    - Proxy.
+  - JSON: arquivo de texto que entrega um dicionário de dados.
+- [x] Introdução ao Flask
+  - Flask é um micro framework que utiliza a linguagem Python para criar aplicativos Web.
+  - Sistema de padronização de getway.
+- [x] Instalação do Flask
+- [x] "Olá, WoMakers" com Flask
+- [x] Criando JSON de resultados
+- [x] Criando um template
+- [x] Detalhe de um personagem - Parte 1
+- [x] Detalhe de um personagem - Parte 2
+- [x] Detalhe de um personagem - Parte 3
+- [x] Detalhe de um personagem - Parte 4
+- [] Introdução ao FastAPI
+
+
+
+
+
 - 
 
   
