@@ -62,6 +62,10 @@ Resumo do progresso:
   - Flask é um micro framework que utiliza a linguagem Python para criar aplicativos Web.
   - Sistema de padronização de getway.
 - [x] Instalação do Flask
+  - Ativar venv:
+    - .venv\Scripts\Activate.ps1
+  - Ver lista de pacotes instalados:
+    - pip freeze.
 - [x] "Olá, WoMakers" com Flask
 - [x] Criando JSON de resultados
 - [x] Criando um template
@@ -69,14 +73,29 @@ Resumo do progresso:
 - [x] Detalhe de um personagem - Parte 2
 - [x] Detalhe de um personagem - Parte 3
 - [x] Detalhe de um personagem - Parte 4
-- [] Introdução ao FastAPI
-
-
-
-
-
-- 
-
-  
+- [x] Introdução ao FastAPI
+  - Framework projetado para desenvolvimento de API.
+  - Características do FastAPI:
+    - Utiliza Unicorn e Starllet;
+    - Desempenho com recursos assíncronos;
+    - ASGI;
+    - Facilidade de Uso;
+    - Validação de tipos de dados com Pydantic;
+    - Escalabilidade;
+    - Documentação automática.
+- [x] Métodos Síncronos e Assíncronos
+  - Síncrono:
+    - Executado um de cada vez.
+  - Assícrono:
+    - Executar múltiplas tarefas. 
+  - Serveless.
+- [x] Instalação do FastAPI
+- [x] Trabalhando com parâmetros simples
+- [x] User Model
+- [x] HTTP GET Requests
+- [x] HTTP POST Requests
+- [x] HTTP DELETE Requests
+- [x] HTTP Exceptions
+- [x] Documentação da API
 
 Obrigado por visitar este repositório!
