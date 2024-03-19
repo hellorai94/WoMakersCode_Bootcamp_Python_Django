@@ -98,4 +98,4 @@ Resumo do progresso:
 - [x] HTTP Exceptions
 - [x] Documentação da API
 
-Obrigado por visitar este repositório!
+Obrigada por visitar este repositório!
