@@ -6,6 +6,6 @@ Este repositório contém o código e os recursos desenvolvidos como parte do es
 
 Resumo do progresso:
 
-### Mentorias Ao Vivo
+### Esta semana teve como conteúdo as Mentorias ao Vivo
 
 Obrigado por visitar este repositório!
