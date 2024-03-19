@@ -8,4 +8,4 @@ Resumo do progresso:
 
 ### Esta semana teve como conteúdo as Mentorias ao Vivo
 
-Obrigado por visitar este repositório!
+Obrigada por visitar este repositório!

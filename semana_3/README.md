@@ -50,4 +50,4 @@ Resumo do progresso:
 5. [x] Tarefa 5
 6. Tarefa 6
 
-Obrigado por visitar este repositório!
+Obrigada por visitar este repositório!

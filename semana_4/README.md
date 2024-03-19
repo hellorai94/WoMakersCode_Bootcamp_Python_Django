@@ -61,4 +61,4 @@ Resumo do progresso:
 - [x] Tarefa 8
 
 
-Obrigado por visitar este repositório!
+Obrigada por visitar este repositório!
